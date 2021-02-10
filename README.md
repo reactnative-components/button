@@ -1,2 +1,2 @@
 # button
-a flexible button component with native design in android and ios
+A flexible button component with native design in android and ios
